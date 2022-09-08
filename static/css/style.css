@@ -45,20 +45,21 @@
     
   }
   .op{
-    font-family: 'Courier New';
+    font-family: 'Roboto';
     text-align: center;
-    font-size: 90px;
+    font-size: 70px;
     color: #3a4660;
     background-color: #ed8a63;
     border-radius: 10px;
     border: 2px solid black;
     margin:20px;
+    padding: 10px;
   }
   .op-8{
     font-family: 'Courier New';
     text-align: center;
     font-size: 25px;
-    color: #3a4660;
+    color: black;
     background: rgba(76, 175, 80, 0.3);
     border-radius: 7px;
     border: 2px solid black;
@@ -66,11 +67,11 @@
     width: 50%;
   }
   .op-1{
-    font-family: 'Courier New';
+    font-family: 'Poppins',sans-serif;
     text-align: center;
-    font-size: 45px;
-    color: #3a4660;
-    background-color: #ed8a63;
+    font-size: 35px;
+    color: #ffffff;
+    background-color: #dd331d;
     border-radius: 10px;
     border: 2px solid black;
   }
@@ -114,7 +115,7 @@
 
 .btn:hover {
     color: white;
-    background-color:red;
+    background-color:rgba(76, 175, 80, 1);
     cursor: pointer;
 }
 .show-result {
